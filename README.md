@@ -1,6 +1,6 @@
 wechat-php-sdk
 ==============
-
+这个主要是用来测试git是不是OK
 微信公众平台php开发包,细化各项接口操作,支持链式调用,欢迎Fork此项目  
 weixin developer SDK.
 项目地址：**https://github.com/dodgepudding/wechat-php-sdk**  
@@ -744,8 +744,10 @@ switch($type) {
 HTML部分请看old_version/test/test3.php, 主要是定时ajax查询是否已经授权成功
 
 ## 新版微信JSAPI调用DEMO: 
-请看test/jsapi目录
-
+请看test/jsapi目
+this is end ****************************************************************
+ending
+**********
 License
 -------
 This is licensed under the GNU LGPL, version 2.1 or later.   
